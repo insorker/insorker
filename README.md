@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @insorker
 - 👀 I’m interested in C++/Java/Python
 - 🌱 I’m currently learning
-  - [CSAPP](http://www.cs.cmu.edu/~213/index.html)
+  - [CSAPP](http://www.cs.cmu.edu/~213/index.html) | [study](https://github.com/insorker/CSAPP)
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me
   - email: 2677331029@qq.com
