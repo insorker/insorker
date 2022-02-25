@@ -2,6 +2,7 @@
 - 👀 I’m interested in C++/Java/Python
 - 🌱 I’m currently learning
   - [CSAPP](http://www.cs.cmu.edu/~213/index.html) | [study](https://github.com/insorker/CSAPP)
+  - [6.S081](https://pdos.csail.mit.edu/6.828/2020/index.html) | [study](https://github.com/insorker/6.S081)
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me
   - email: 2677331029@qq.com
