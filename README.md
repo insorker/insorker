@@ -1,3 +1,4 @@
+[![insorker's GitHub stats](https://github-readme-stats.vercel.app/api?username=insorker&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @insorker
 - 👀 I’m interested in C++/Java/Python
 - 🌱 I’m currently learning
