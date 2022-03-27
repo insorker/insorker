@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning
   - [CSAPP](http://www.cs.cmu.edu/~213/index.html) | [finished](https://github.com/insorker/CSAPP)
   - [6.S081](https://pdos.csail.mit.edu/6.828/2020/index.html) | [study](https://github.com/insorker/6.S081)
-  - [南京大学2022操作系统](https://space.bilibili.com/202224425/channel/collectiondetail?sid=192498) | [study]
+  - [jyy's操作系统](https://space.bilibili.com/202224425/channel/collectiondetail?sid=192498) | [study](no repository)
+  - [软件分析](https://space.bilibili.com/2919428) | [study](no repository)
+  - [算法设计与分析](https://space.bilibili.com/474662253) | [study](no repository)
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me
   - email: 2677331029@qq.com
