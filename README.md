@@ -3,7 +3,7 @@
 - 👀 I’m interested in C++/Java/Python/Lisp/Go
 - 🌱 I’m currently learning
   - [CSAPP](http://www.cs.cmu.edu/~213/index.html) | [finished](https://github.com/insorker/CSAPP)
-  - [6.S081](https://pdos.csail.mit.edu/6.828/2020/index.html) | [suspend](https://github.com/insorker/6.S081)
+  - [6.S081](https://pdos.csail.mit.edu/6.828/2020/index.html) | [suspended](https://github.com/insorker/6.S081)
   - [jyy's操作系统](https://space.bilibili.com/202224425/channel/collectiondetail?sid=192498) | [study](https://github.com/insorker/nju-os-workbench-2022)
   - [软件分析](https://space.bilibili.com/2919428) | [study](no repository)
   - [算法设计与分析](https://space.bilibili.com/474662253) | [study](no repository)
