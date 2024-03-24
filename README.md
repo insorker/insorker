@@ -1,15 +1,19 @@
 [![insorker's GitHub stats](https://github-readme-stats.vercel.app/api?username=insorker&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 - 👋 Hi, I’m @insorker
-- 👀 I’m interested in C++/Java/Python/Lisp/Go
+- 👀 I’m interested in C++/Java/Python/Lisp/Go/Rust
 - 🌱 I’m currently learning
-  - [CSAPP](http://www.cs.cmu.edu/~213/index.html) | [finished](https://github.com/insorker/CSAPP)
-  - [jyy's操作系统](https://space.bilibili.com/202224425/channel/collectiondetail?sid=192498) | [finished](https://github.com/insorker/nju-os-workbench-2022)
-  - [6.S081](https://pdos.csail.mit.edu/6.828/2020/index.html) | [suspended](https://github.com/insorker/6.S081)
-  - [软件分析](https://space.bilibili.com/2919428) | [suspended](https://github.com/insorker/Tai-e-assignments)
-  - [算法设计与分析](https://space.bilibili.com/474662253) | [suspended](no repository)
-  - [编译原理](https://www.bilibili.com/video/BV1NE411376V?spm_id_from=333.337.search-card.all.click) | [suspended](no repository)
-  - [SICP](https://www.bilibili.com/video/BV1Xx41117tr) | [suspended](no repository)
+  - Error Correction Coding
+  - Rust & Java
+  - Web Development & OS & DB
 - 💞️ I’m looking to collaborate on something
+- 🥲 I'm working on some projects
+  - [CMU-15445](https://15445.courses.cs.cmu.edu/fall2023/)
+  - [blog_os](https://github.com/phil-opp/blog_os)
+  - [crafting interpreters](https://craftinginterpreters.com/)
+  - [苍穹外卖](https://www.bilibili.com/video/BV1TP411v7v6/)
+  - [Falling Sand in WASM](personal)
+  - [npm](lacking goals)
+  - [figma](curiosity)
 - 📫 How to reach me
   - email: 2677331029@qq.com
   - blog: [insorker.site](https://insorker.site/)
