@@ -19,12 +19,9 @@
   - Web Development & OS & DB
 - I'm working on some projects
   - [CMU-15445](https://15445.courses.cs.cmu.edu/fall2023/)
-  - [blog_os](https://github.com/phil-opp/blog_os)
-  - [crafting interpreters](https://craftinginterpreters.com/)
-  - [Falling Sand in WASM](TODO)
 - How to reach me
   - email: insorker@qq.com
-  - blog: [insorker.site](https://insorker.site/)
+  - blog: [insorker.site](https://insorker.site/) or [insorker.netlify.app](https://insorker.netlify.app/)
 
 <!---
 insorker/insorker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
